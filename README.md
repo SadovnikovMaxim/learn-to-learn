@@ -1,8 +1,6 @@
 # learn-to-learn
 Учебный проект Яндекс.Практикума посвященный семантичной верстке и анимациям.
 
-HTML, CSS
-
 # Научиться учиться
 Версия 0.0.1
 
@@ -16,6 +14,5 @@ HTML, CSS
 ## Стэк технологий:
 CSS3, HTML5, GIT
 
-
 ## Ссылка на github pages:
-https://sadovnikovmaxim.github.io/News-Analysis-Project/
+https://sadovnikovmaxim.github.io/learn-to-learn/
