@@ -15,7 +15,3 @@ HTML, CSS
 Сделано с ипользованием флексбоксов
 ## Стэк технологий:
 CSS3, HTML5, GIT
-
-
-## Ссылка на github pages:
-https://sadovnikovmaxim.github.io/News-Analysis-Project/
